@@ -16,8 +16,10 @@
 
 
 # Refinements
-* Radix Tree can be used to compressed 
-* Merging of ranges will generate less Tries and space can be optimized.
+* Radix Tree can be used to compressed common nodes in Trie
+* Interval Tree and Segment Tree are also feasible and more optimized to query over range (since query doesn't have ranges for port and ip, Trie is equally efficient)
+* Mapping port and IP will help to reduce space complexity
+
 
 
 # Teams
