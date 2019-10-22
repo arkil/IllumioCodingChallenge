@@ -11,6 +11,10 @@
 * Port Trie if all ports given space of 2^16
 * Ip Trie if all ip given space of 2^32
 
+## Refrences
+
+https://blog.sqreen.com/demystifying-radix-trees/
+
 # Testing
 * I used Python unittest to assert different test scenario. Program still worked for the case when there was a range in the port and also the ipAddress. 
 
